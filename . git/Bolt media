@@ -1,0 +1,401 @@
+ <!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Meta Tags Example</title>
+
+</head>
+
+	<style>
+
+</style>
+
+   	<link rel="stylesheet" href="mystyle.css">
+
+<body>
+
+  
+
+<ul>
+
+<ul type = "square">
+
+<li>Home</li>
+
+<li>About</li>
+
+<li>Contact</li>
+
+         
+
+</ul>
+
+<div>
+
+<h1>WELCOME TO MY WEBSITE</h2>
+
+</div>
+
+<p><h3>My skills are</h3></p>
+
+      <ul>
+
+<ul type = "disc">
+
+<li>HTML</li>
+
+<li>Css</li>
+
+<li>JavaScript</li> 
+
+         
+
+      </ul>
+
+    <dl>
+
+  <dt>The Bolt Media</dt>
+
+  <dd>
+
+    A platform that enhances media and media productions.
+
+  </dd>
+
+  <!-- Other terms and descriptions -->
+
+</dl>
+
+    <dl>
+
+  <dt>The Bolt ⚡ Media</dt>
+
+  <dt>Bolton technologies</dt>
+
+  <dt>BTECH</dt>
+
+  <dd>
+
+   Training great developers and business owners 
+
+  </dd>
+
+<dd>we are the best in what we do</dd>
+
+  <!-- Other terms and descriptions -->
+
+</dl>
+
+      <dl>
+
+  <dt>Name</dt>
+
+  <dd>Coder</dd>
+
+  <dt>Born</dt>
+
+  <dd>1952</dd>
+
+  <dt>Birthplace</dt>
+
+  <dd>Nigeria</dd>
+
+  <dt>Color</dt>
+
+  <dd>Green</dd>
+
+</dl>
+
+LIST OF SOME CHARACTERS
+
+<ol type ="i" start ="3">
+
+         <li>QUICK SONIC</li>
+
+         <li>BOLT</li>
+
+         <li>HAWX</li>
+
+         <li>BEE MAX etc.</li>
+
+      </ol>
+
+      <p>Click Me</p>
+
+      <a href = "https://campuscybercafe.com/" target = "_self">Campus Cyber Cafe</a>
+
+   </body>
+
+   <p>Click Me</p>
+
+      <a href = "https://google.com/ " target = "_self">Straight to Google</a>
+
+   </body>
+
+   <body>
+
+      <p>Click any of the following links</p>
+
+      <a href = "https://google.com/ " target = "_blank">Google</a> |
+
+      <a href = "https://facebook.com/ " target = "_self">Facebook</a> |
+
+      <a href = "https://Twitter.com/ " target = "_parent">Twitter</a> |
+
+      <a href = "https://Instagram.com/ " target = "_top">Instagram</a>
+
+   </body>
+
+   <p>Click Me</p>
+
+      <a href = "/Office+/assignment index.html" target = "_blank">HTML Basic Tutorial</a>
+
+      <h1>HTML Text Links <JavaScript = "top"></a>
+
+      </h1>
+
+      <a href = "/Office+/assignment index.html#top">Go to the Top</a>
+
+      <body alink = "#54A250" link = "#040404" vlink = "#F40633">
+
+      <p>Click Me</p>
+
+      <a href = "https://campuscybercafe.com/ " target = "_blank" >HTML Tutorial</a>
+
+   </body>
+
+   <body>
+
+      <a href = "https://google.com/images">Download  File</a>
+
+   </body>
+
+   <body>
+
+      <p>Click this image</p>
+
+      <a href = "https://campuscybercafe.com/file " target = "_self"> 
+
+         <img src = "Images/Bolt comics cover photo.jpg" alt = "Bolt comics" border = "0"/> 
+
+      </a>
+
+   </body>
+
+   <a href = "mailto: kingsweedish1@gmail.com">Send Email</a>
+
+   <a href = "mailto:freshcoder@gmail.com ?subject = Feedback&body = Message">
+
+Send Feedback
+
+</a>
+
+<p>Click Me</p>
+
+      <a href = "mylink/link.html" target = "_self">Campus Cyber Cafe</a>
+
+      <body text = "Black" bgcolor = "red">
+
+      <p>Use different color names for for body and table and see the result.</p>
+
+      
+
+      <table bgcolor = "red">
+
+         <tr>
+
+            <td>
+
+               <font color = "black">This text will appear black on red background.</font>
+
+            </td>
+
+         </tr>
+
+      </table>
+
+   </body>
+
+   <body text = "#0000FF" bgcolor = "#00FF00">
+
+      <p>Use different color hexa for body and table and see the result.</p>
+
+      
+
+      <table bgcolor = "#000000">
+
+         <tr>
+
+            <td>
+
+               <font color = "#FFFFFF">This text will appear white on black background.</font>
+
+            </td>
+
+         </tr>
+
+      </table>
+
+   </body>
+
+   <body>
+
+      <form>
+
+         First name: <input type = "text" name = "first_name" />
+
+         <br>
+
+         Last name: <input type = "text" name = "last_name" />
+
+         <br>
+
+         Age: <input type ="text" name ="age" />
+
+      </form>
+
+   </body>
+
+   <body>
+
+      <form >
+
+         User ID : <input type = "text" name = "user_id" />
+
+         <br>
+
+         Password: <input type = "password" name = "password" />
+
+      </form>
+
+   </body>
+
+   <body>
+
+      <form>
+
+         Description : <br />
+
+         <textarea rows = "3" cols = "30" name = "description">
+
+            Text here...
+
+         </textarea>
+
+      </form>
+
+   </body>
+
+   <body>
+
+      <form>
+
+         <input type = "checkbox" name = "maths" value = "on"> Maths
+
+<br>
+
+         <input type = "checkbox" name = "physics" value = "on"> Physics
+
+<br>
+
+<input type ="checkbox" name ="chemistry" value ="on"> Chemistry
+
+      </form>
+
+   </body>
+
+   <body>
+
+      <form>
+
+         <input type = "radio" name = "subject" value = "maths"> Maths
+
+         <input type = "radio" name = "subject" value = "physics"> Physics
+
+      </form>
+
+   </body>
+
+   <body>
+
+      <form>
+
+         <select name = "dropdown">
+
+            <option value = "Maths" selected>Maths</option>
+
+            <option value = "Physics">Physics</option>
+
+            <option value ="English Language">English Language</option>
+
+         </select>
+
+      </form>
+
+   </body>
+
+   <body>
+
+      <form>
+
+         <input type = "file" name = "fileupload" accept = "image/*" />
+
+      </form>
+
+      <input type ="file" name ="fileupload" accept ="image/"
+
+   </body>
+
+   <body>
+
+      <form>
+
+         <input type = "submit" name = "submit" value = "Submit" />
+
+         <input type = "reset" name = "reset"  value = "Reset" />
+
+         <input type = "button" name = "ok" value = "OK" />
+
+         <input type = "image" name = "imagebutton" src = "/html/images/logo.png" />
+
+      </form>
+
+      <input type ="image" name ="imagebutton" src ="/Office+/images/Bolt comics cover photo.jpg" />
+
+   </body>
+
+   <body>
+
+      <form>
+
+         <p>This is page 10</p>
+
+         <input type = "hidden" name = "pagename" value = "10" />
+
+         <input type = "submit" name = "submit" value = "Submit" />
+
+         <input type = "reset" name = "reset"  value = "Reset" />
+
+      </form>
+
+   </body>
+
+   <body>
+
+      <embed src = "/html/yourfile.mid" width = "100%" height = "60" >
+
+         <noembed><img src = "yourimage.gif" alt = "Alternative Media" ></noembed>
+
+      </embed>
+
+   </body>
+
+   <body>
+
+      <marquee>This is basic example of marquee</marquee>
+
+   </body>
+
+      <footer>©The Bolt Media ⚡</footer>
